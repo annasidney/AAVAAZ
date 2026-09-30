@@ -1,0 +1,6 @@
+{
+  "name": "Aavaaz",
+  "description": "A safe, empowering sanctuary for assault survivors to break the silence, share their truths, and stand together. Every voice matters. We believe you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
